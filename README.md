@@ -4,16 +4,15 @@ This repository provides concise notes on the essential mathematics and statisti
 
 ## Topics to be Covered
 
-- Basics:
+- [Basics:](\basics.ipynb)
   - Descriptive vs inferential statistics, continuous vs discrete data,
   - Nominal vs Ordinal data
-- Linear Algebra:
+- [Linear Algebra:](linear_algebra.ipynb)
   - Vectors
   - Metrices
   - Eigenvalues and Eigenvectors
-- Calculus:
-  - Basics of integral
-  - Differential Calculus
+- [Calculus:](\calculus.ipynb)
+  - Basics of integral and differential Calculus
 - Basic plots:
   - Histograms
   - Pie charts
