@@ -6,19 +6,19 @@ This repository provides concise notes on the essential mathematics and statisti
 
 - Basics:
   - Descriptive vs inferential statistics, continuous vs discrete data,
-  - nominal vs ordinal data
+  - Nominal vs Ordinal data
 - Linear Algebra:
   - Vectors
   - Metrices
   - Eigenvalues and Eigenvectors
 - Calculus:
   - Basics of integral
-  - differential calculus
+  - Differential Calculus
 - Basic plots:
   - Histograms
-  - pie charts
-  - bar charts
-  - scatter plot etc.
+  - Pie charts
+  - Bar charts
+  - Scatter plot etc.
 - Measures of central tendency: mean, median, mode
 - Measures of dispersion: variance, standard deviation
 - Basics of Probability
