@@ -13,7 +13,7 @@ This repository provides concise notes on the essential mathematics and statisti
   - Eigenvalues and Eigenvectors
 - [Calculus:](\calculus.ipynb)
   - Basics of integral and differential Calculus
-- Basic plots:
+- [Basic plots:](/plots.ipynb)
   - Histograms
   - Pie charts
   - Bar charts
