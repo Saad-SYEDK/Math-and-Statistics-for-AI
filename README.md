@@ -18,7 +18,7 @@ This repository provides concise notes on the essential mathematics and statisti
   - Pie charts
   - Bar charts
   - Scatter plot etc.
-- Measures of central tendency: mean, median, mode
+- [Measures of central tendency](/central_tendency.ipynb)
 - Measures of dispersion: variance, standard deviation
 - Basics of Probability
 - Distributions: Normal distribution
